@@ -23,9 +23,10 @@
 ##
 
 <div>
-  <a href="mailto:matheus.lustosa23@gmail.com" target="_blank"><img  height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank"> </a>
-    <a href="https://www.linkedin.com/in/matheus-lustosa-8472391a3/" target="_blank"><img  height="30" widht="40" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" target="_blank"> </a>
-  
+  <a href="mailto:matheus.lustosa23@gmail.com" target="_blank"><img  height="25" widht="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank"> </a>
+    <a href="https://www.linkedin.com/in/matheus-lustosa-8472391a3/" target="_blank"><img  height="27" widht="37" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" target="_blank"> </a>
+     <a href="https://api.whatsapp.com/send?phone=5562996586211&text=Ol%C3%A1,Matheus%20Lustosa" target="_blank"><img  height="30" widht="40" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" target="_blank"> </a>
+      
    
   
 </div>
